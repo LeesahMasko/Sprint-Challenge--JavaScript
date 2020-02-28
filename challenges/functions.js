@@ -37,7 +37,7 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 
 // Explain in your own words why nestedfunction can access the variable internal.
 
-// Explanation: Because it is iuherited, variables can be passed down (not up).
+// Explanation: Because it is inherited, variables can be passed down (not up). Closures give us the ability to use code that has been identified elsewhere.
 
 
 const external = "I'm outside the function";
